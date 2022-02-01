@@ -1,5 +1,5 @@
 # Practice
 try lang
 asdasdasd
-adadagggggagaga
-agagagagagag
+try ko ulit
+kung gagana
