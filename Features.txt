@@ -1,0 +1,62 @@
+---Public---
+Home
+Services
+Contact
+About
+Organization Chart
+Recommender-Prevention needed for the disease outbreak
+Schedule
+--------------------------------------------------------------------------
+---Patient Account---
+Account	-Basic Info
+	-Username password edit
+	-
+Record  -Appointment record(Date,Service)
+Online Consultation -Message Box
+--------------------------------------------------------------------------
+---HealthWorkers---
+Account	-Basic Info
+	-Username password edit
+	-
+Manage Patient Info(Add,Archive,Update,View)		  
+Appointment -Set Appointment for Follow up CheckUp
+	    -View Patient appoint or sched for the day.
+Online Consultation -Message Box(Doctor)
+--------------------------------------------------------------------------
+---Admin---
+Dashboard - Recommender- Action needed for the disease outbreak
+	  - Graphs
+Manage Healthworkers Account
+Manage Patient Account -Approval for new registered patient acct
+Manage Patient Info(Add,Archive,Update,view)
+Generate Reports -Daily, Weekly, Monthly no. of catered patient
+		 -"  ", "    ", "    " no. of patient per disease (age)
+		 -No. of patient info, patient account, healthworkers
+                 -
+--------------------------------------------------------------------------
+---Assistant Desk---
+Viewing Patient Appointment
+Register new patient
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Other Services-
+General Consultation, Immunization Program, Maternal Care, Dental Program, National Tuberculosis Program, Integrated Non Communicable Disease Prevention, Nutrition Program, Family Planning Program, Adolescent Program, Community Based Mental Health, Comprehensive care for the Elderly
+		
+
